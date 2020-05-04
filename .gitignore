@@ -12,3 +12,5 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+**/node_modules
+**/.idea

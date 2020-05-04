@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d14eda6b-ef8b-4255-9a76-c4dabd565394" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b8GWKetNQODmgeU1FNwBvh10hi" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.14.1" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/jdk1.8.0_111/bin/jvisualvm.exe" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+    <property name="ts.external.directory.path" value="C:\projects\tictactoe_server\node_modules\typescript\lib" />
+  </component>
+  <component name="PsiViewer.ProjectComponent">
+    <option name="HIGHLIGHT" value="false" />
+    <option name="FILTER_WHITESPACE" value="false" />
+    <option name="SHOW_PROPERTIES" value="true" />
+    <option name="SPLIT_DIVIDER_POSITION" value="300" />
+    <option name="AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="AUTOSCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projects\tictactoe_server\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.index.js">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/lib/index.js" working-dir="$PROJECT_DIR$/lib">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d14eda6b-ef8b-4255-9a76-c4dabd565394" name="Default Changelist" comment="" />
+      <created>1588006337960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588006337960</updated>
+      <workItem from="1588006341878" duration="2382000" />
+      <workItem from="1588350763867" duration="3786000" />
+      <workItem from="1588432996244" duration="10000" />
+      <workItem from="1588433048284" duration="101000" />
+      <workItem from="1588608052479" duration="5016000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/index.js.map" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1506" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588350814690">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1506" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.2560.1400@-1920.0.1920.1040" timestamp="1588350814690" />
+    <state width="393" height="466" key="DebuggerActiveHint" timestamp="1588614605513">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="393" height="466" key="DebuggerActiveHint/-1920.0.1920.1040/0.0.2560.1400@-1920.0.1920.1040" timestamp="1588614605513" />
+    <state width="1876" height="364" key="GridCell.Tab.0.bottom" timestamp="1588626271723">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="364" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.2560.1400@-1920.0.1920.1040" timestamp="1588626271723" />
+    <state width="1876" height="364" key="GridCell.Tab.0.center" timestamp="1588626271723">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="364" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.2560.1400@-1920.0.1920.1040" timestamp="1588626271723" />
+    <state width="1876" height="364" key="GridCell.Tab.0.left" timestamp="1588626271723">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="364" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.2560.1400@-1920.0.1920.1040" timestamp="1588626271723" />
+    <state width="1876" height="364" key="GridCell.Tab.0.right" timestamp="1588626271723">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="364" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1400@-1920.0.1920.1040" timestamp="1588626271723" />
+    <state width="1876" height="364" key="GridCell.Tab.1.bottom" timestamp="1588626271723">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="364" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.2560.1400@-1920.0.1920.1040" timestamp="1588626271723" />
+    <state width="1876" height="364" key="GridCell.Tab.1.center" timestamp="1588626271723">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="364" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.2560.1400@-1920.0.1920.1040" timestamp="1588626271723" />
+    <state width="1876" height="364" key="GridCell.Tab.1.left" timestamp="1588626271723">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="364" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.2560.1400@-1920.0.1920.1040" timestamp="1588626271723" />
+    <state width="1876" height="364" key="GridCell.Tab.1.right" timestamp="1588626271723">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="364" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.2560.1400@-1920.0.1920.1040" timestamp="1588626271723" />
+    <state width="1876" height="364" key="GridCell.Tab.2.bottom" timestamp="1588626271724">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="364" key="GridCell.Tab.2.bottom/-1920.0.1920.1040/0.0.2560.1400@-1920.0.1920.1040" timestamp="1588626271724" />
+    <state width="1876" height="364" key="GridCell.Tab.2.center" timestamp="1588626271723">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="364" key="GridCell.Tab.2.center/-1920.0.1920.1040/0.0.2560.1400@-1920.0.1920.1040" timestamp="1588626271723" />
+    <state width="1876" height="364" key="GridCell.Tab.2.left" timestamp="1588626271723">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="364" key="GridCell.Tab.2.left/-1920.0.1920.1040/0.0.2560.1400@-1920.0.1920.1040" timestamp="1588626271723" />
+    <state width="1876" height="364" key="GridCell.Tab.2.right" timestamp="1588626271724">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="364" key="GridCell.Tab.2.right/-1920.0.1920.1040/0.0.2560.1400@-1920.0.1920.1040" timestamp="1588626271724" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/index.ts</url>
+          <line>36</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="NodeJSConfigurationType">
+        <watch expression="duplicate.length !== 0" language="TypeScript" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
